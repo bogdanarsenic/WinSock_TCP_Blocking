@@ -1,0 +1,6 @@
+﻿  Client.cpp
+c:\users\e310-2014\desktop\projekat\winsock_tcp_blocking\winsockclient\client.cpp(59): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+c:\users\e310-2014\desktop\projekat\winsock_tcp_blocking\winsockclient\client.cpp(26): warning C4101: 'iResult': unreferenced local variable
+  WinSockClient.vcxproj -> C:\Users\e310-2014\Desktop\Projekat\WinSock_TCP_Blocking\Debug\WinSockClient.exe
+  WinSockClient.vcxproj -> C:\Users\e310-2014\Desktop\Projekat\WinSock_TCP_Blocking\Debug\WinSockClient.pdb (Full PDB)
